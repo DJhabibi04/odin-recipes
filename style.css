@@ -1,9 +1,7 @@
 *
 {font-family: Arial, Helvetica, sans-serif;}
 
-
-
-.title
+.titlehome
 {border: 20px solid black;
 text-align: center;
 font-size: 70px;
@@ -11,7 +9,7 @@ font-family: brush script mt;
 font-style: italic;
 }
 
-.meal-lists
+.meal-listshome
 {border: 20px solid black;
  text-align: center;
  font-size: 50px;
