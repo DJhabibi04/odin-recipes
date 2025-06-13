@@ -9,6 +9,9 @@ font-family: brush script mt;
 font-style: italic;
 }
 
+.foodtitles
+{text-align: center;}
+
 .meal-listshome
 {border: 20px solid black;
  text-align: center;
